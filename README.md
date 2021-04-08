@@ -31,9 +31,9 @@
 <img align="left" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
 <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-#
+###
 
-<div align="right">
+<div align="center">
 
 ### See ya until next time!❤️ 
 
