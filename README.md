@@ -17,7 +17,8 @@
 - 📫 Please do contact if there are any concerns: [aryanofficial5411@gmail.com](mailto:aryanofficial5411@gmail.com)
 - Also, if we have some common interests, let's grab a cup of coffee/tea 👉👈
    
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/aryansingho7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</a>
 ---
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansingho7&show_icons=true)
 ---
@@ -39,3 +40,5 @@
 ### See ya until next time!❤️
    
 </div>
+
+
