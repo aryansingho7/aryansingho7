@@ -11,7 +11,7 @@
 
 ## Points Concerning me
 - I am overly fond of Open Source contributions.
-- Currently I'm my best to learn the Sorcery of C++, Python, HTML CSS and JS.
+- Currently I'm doing my best to learn the Sorcery of C++, Python, HTML CSS and JS.
 - Since I am particularly interested in backend concepts, I am looking for mentorship in this area.
 - Fun fact: In my spare time, I research on a wide range of topics, including not only tech but also socio-political and economic issues.
 - Also, if we have some common interests, let's grab a cup of coffee/tea 👉👈
