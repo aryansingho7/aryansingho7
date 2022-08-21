@@ -6,7 +6,7 @@
 
 
 # Hi there!            
-##### This is Aryan Singh, currently I'm a second-year undergraduate pursuing bachelor's in technology in Information technology. I like to take on new challenges and invest the time necessary to create things that worth attention. 
+##### This is Aryan Singh, currently I'm a Final-year undergraduate pursuing bachelor's in technology in Information technology. I like to take on new challenges and invest the time necessary to create things that worth attention. 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Points Concerning me
